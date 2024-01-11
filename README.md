@@ -41,6 +41,19 @@ Logs are stored in `dns_honeypot.log`, detailing each DNS query received by the 
 ![Simple DNS Honeypot in Action](https://raw.githubusercontent.com/0xNslabs/dns-honeypot/main/PoC.png)
 *The image above captures the Simple DNS Honeypot logging real-time DNS queries*
 
+## Other Simple Honeypot Services
+
+Check out the other honeypot services for monitoring various network protocols:
+
+- [DNS Honeypot](https://github.com/0xNslabs/dns-honeypot) - Monitors DNS interactions.
+- [FTP Honeypot](https://github.com/0xNslabs/ftp-honeypot) - Simulates an FTP server.
+- [LDAP Honeypot](https://github.com/0xNslabs/ldap-honeypot) - Mimics an LDAP server.
+- [NTP Honeypot](https://github.com/0xNslabs/ntp-honeypot) - Monitors Network Time Protocol interactions.
+- [PostgreSQL Honeypot](https://github.com/0xNslabs/postgresql-honeypot) - Simulates a PostgreSQL database server.
+- [SIP Honeypot](https://github.com/0xNslabs/sip-honeypot) - Monitors SIP (Session Initiation Protocol) interactions.
+- [SSH Honeypot](https://github.com/0xNslabs/ssh-honeypot) - Emulates an SSH server.
+- [TELNET Honeypot](https://github.com/0xNslabs/telnet-honeypot) - Simulates a TELNET server.
+
 ## Security and Compliance
 - **Caution**: This server is a honeypot. Employ responsibly in controlled network environments.
 - **Compliance**: Adhere to local laws and regulations in deployment.
